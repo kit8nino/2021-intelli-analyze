@@ -9,6 +9,7 @@ data = pd.read_csv('../_lab-1/character-deaths.csv')
 
 # data_droppedA2.describe()
 
+
 def isNaN(num):
     return num != num
 
