@@ -11,6 +11,8 @@
 
 Таблица, где я буду отмечать сданные работы: https://docs.google.com/spreadsheets/d/1MupualVuX1WTgMzMvNIAuQXWAGvHw5i6xu9AgemOWmE/edit?usp=sharing
 
+Доска: https://miro.com/app/board/o9J_ljKyuG0=/?invite_link_id=678234012013
+
 Сервер в Дискорд, где буду дублировать: https://discord.gg/MzPkCYf4Dh
 Мой контакт: nsmorozov@rf.unn.ru
 
